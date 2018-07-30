@@ -1,2 +1,6 @@
 itp:
-  
+  pay:
+    server:
+      unionpay:
+        pay:
+          name: c5-1
